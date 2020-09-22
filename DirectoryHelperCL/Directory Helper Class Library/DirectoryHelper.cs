@@ -30,7 +30,7 @@ namespace DirectoryHelperCL
         {
             // Get the subdirectories for the specified directory.
             DirectoryInfo dir = new DirectoryInfo(sourceDir);
-
+            destDir += sourceDir.Substring(sourceDir.LastIndexOf('\\'));
             // If the destination directory exist, throw an exception.
             // dest folder should be dest path + source folder name
             if (Directory.Exists(destDir))
