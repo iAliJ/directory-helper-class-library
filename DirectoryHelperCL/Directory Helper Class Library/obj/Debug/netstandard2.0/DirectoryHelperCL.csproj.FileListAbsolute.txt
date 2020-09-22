@@ -1,0 +1,9 @@
+D:\Programming\Projects\2020\200901 Directory Helper Class Library\directory-helper-class-library\DirectoryHelperCL\Directory Helper Class Library\bin\Debug\netstandard2.0\DirectoryHelperCL.deps.json
+D:\Programming\Projects\2020\200901 Directory Helper Class Library\directory-helper-class-library\DirectoryHelperCL\Directory Helper Class Library\bin\Debug\netstandard2.0\DirectoryHelperCL.dll
+D:\Programming\Projects\2020\200901 Directory Helper Class Library\directory-helper-class-library\DirectoryHelperCL\Directory Helper Class Library\bin\Debug\netstandard2.0\DirectoryHelperCL.pdb
+D:\Programming\Projects\2020\200901 Directory Helper Class Library\directory-helper-class-library\DirectoryHelperCL\Directory Helper Class Library\obj\Debug\netstandard2.0\DirectoryHelperCL.AssemblyInfoInputs.cache
+D:\Programming\Projects\2020\200901 Directory Helper Class Library\directory-helper-class-library\DirectoryHelperCL\Directory Helper Class Library\obj\Debug\netstandard2.0\DirectoryHelperCL.AssemblyInfo.cs
+D:\Programming\Projects\2020\200901 Directory Helper Class Library\directory-helper-class-library\DirectoryHelperCL\Directory Helper Class Library\obj\Debug\netstandard2.0\DirectoryHelperCL.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\2020\200901 Directory Helper Class Library\directory-helper-class-library\DirectoryHelperCL\Directory Helper Class Library\obj\Debug\netstandard2.0\DirectoryHelperCL.dll
+D:\Programming\Projects\2020\200901 Directory Helper Class Library\directory-helper-class-library\DirectoryHelperCL\Directory Helper Class Library\obj\Debug\netstandard2.0\DirectoryHelperCL.pdb
+D:\Programming\Projects\2020\200901 Directory Helper Class Library\directory-helper-class-library\DirectoryHelperCL\Directory Helper Class Library\obj\Debug\netstandard2.0\DirectoryHelperCL.csprojAssemblyReference.cache

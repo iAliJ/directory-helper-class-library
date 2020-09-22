@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BpVw4Pvxc20nUD6E0CEmBdLKxNX4UEYerG49wyAiJ3ywWW0iVvWZ/4ch7p1jmLp2N0GsashAYrBMLNOjxGVlXA==",
+  "dgSpecHash": "+aMyx7mnUo8ek3VCc/rF/kGagiA6Ma3OI60GaOrX7LZgEJWtK3vNOzCGl/2+sn+aAQYwImMUk1ElpHouPzWknQ==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Projects\\2020\\200901 Directory Helper Class Library\\DirectoryHelperCL\\Directory Helper Class Library\\Directory Helper Class Library.csproj",
+  "projectFilePath": "D:\\Programming\\Projects\\2020\\200901 Directory Helper Class Library\\directory-helper-class-library\\DirectoryHelperCL\\Directory Helper Class Library\\DirectoryHelperCL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

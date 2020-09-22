@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Projects\\2020\\200901 Directory Helper Class Library\\directory-helper-class-library\\DirectoryHelperCL\\Directory Helper Class Library\\Directory Helper Class Library.csproj": {}
+    "D:\\Programming\\Projects\\2020\\200901 Directory Helper Class Library\\directory-helper-class-library\\DirectoryHelperCL\\Directory Helper Class Library\\DirectoryHelperCL.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Projects\\2020\\200901 Directory Helper Class Library\\directory-helper-class-library\\DirectoryHelperCL\\Directory Helper Class Library\\Directory Helper Class Library.csproj": {
+    "D:\\Programming\\Projects\\2020\\200901 Directory Helper Class Library\\directory-helper-class-library\\DirectoryHelperCL\\Directory Helper Class Library\\DirectoryHelperCL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Projects\\2020\\200901 Directory Helper Class Library\\directory-helper-class-library\\DirectoryHelperCL\\Directory Helper Class Library\\Directory Helper Class Library.csproj",
-        "projectName": "Directory Helper Class Library",
-        "projectPath": "D:\\Programming\\Projects\\2020\\200901 Directory Helper Class Library\\directory-helper-class-library\\DirectoryHelperCL\\Directory Helper Class Library\\Directory Helper Class Library.csproj",
+        "projectUniqueName": "D:\\Programming\\Projects\\2020\\200901 Directory Helper Class Library\\directory-helper-class-library\\DirectoryHelperCL\\Directory Helper Class Library\\DirectoryHelperCL.csproj",
+        "projectName": "DirectoryHelperCL",
+        "projectPath": "D:\\Programming\\Projects\\2020\\200901 Directory Helper Class Library\\directory-helper-class-library\\DirectoryHelperCL\\Directory Helper Class Library\\DirectoryHelperCL.csproj",
         "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
         "outputPath": "D:\\Programming\\Projects\\2020\\200901 Directory Helper Class Library\\directory-helper-class-library\\DirectoryHelperCL\\Directory Helper Class Library\\obj\\",
         "projectStyle": "PackageReference",
